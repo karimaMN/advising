@@ -1,0 +1,23 @@
+export const Summer = [
+    {
+        name: 'Programming Languages',
+        number: 4250,
+
+    },
+
+    {
+        name: 'Computer Science Independent Project',
+        number: 5880,
+
+    },
+    {
+        name: 'Graduate Internship in Computer Science',
+        number: 5900,
+
+    },
+    {
+        name: 'Thesis in Computer Scienced',
+        number: 6900 ,
+
+    },
+]

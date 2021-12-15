@@ -1,0 +1,89 @@
+export const Spring = [
+    {
+        name: 'Web Development with Java',
+        number: 4010,
+    },
+    {  
+        name:'Web Development with Advanced JavaScript' ,   
+        number: 4011, 
+       },
+       {  
+        name:'Programming Languages' ,   
+        number:4250  , 
+       },
+       {  
+        name:'Program Translation Project' ,   
+        number: 4280 , 
+       },
+       {  
+        name:'Database Management Systems' ,   
+        number: 4610, 
+       },
+       {  
+        name:'Computer Networks and Communications' ,   
+        number: 4730 , 
+       },
+       {  
+        name:'Operating Systems' ,   
+        number: 4760 , 
+       },
+       {  
+        name: 'Enterprise Web Development' ,   
+        number: 5012 , 
+       },
+       {  
+        name: 'Android Apps: Android Fundamentals' ,   
+        number: 5020 , 
+       },
+       {  
+        name: 'Artificial Intelligence' ,   
+        number: 5300 , 
+       },
+       {  
+        name: 'Evolutionary Computation' ,   
+        number: 5320 , 
+       },
+       {  
+        name: 'Data Mining' ,   
+        number:5342, 
+       },
+       {  
+        name: 'Biological Data Science' ,   
+        number: 5370 , 
+       },
+       {  
+        name: 'Deep Learning' ,   
+        number: 5390 , 
+       },
+       {  
+        name: 'Computer Systems' ,   
+        number: 5700 , 
+       },
+       {  
+        name: 'Cyber Threats and Defense  ' ,   
+        number: 5702, 
+       },
+       {  
+        name: 'Advanced Information Security' ,   
+        number: 5782, 
+       },
+       {  
+        name: 'Mobile Computing, Networking, and Security' ,   
+        number: 5792, 
+       },
+       {  
+        name: 'Computer Science Independent Project' ,   
+        number: 5880 , 
+       },
+       {  
+        name: 'Cybersecurity Capstone  ' ,   
+        number: 5888 , 
+       },
+       {  
+        name: 'Graduate Internship in Computer Science' ,   
+        number: 5900 , 
+       },
+       {name:'Graduate Internship in Computer Science',
+       number: 6430,}
+]
+

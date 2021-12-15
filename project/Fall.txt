@@ -1,0 +1,101 @@
+export const Fall = [
+    {
+        name: 'Web Development with Java',
+        number: 4010,
+        selected: false
+    },
+
+    {
+        name: 'Python for Scientific Computing and Data Science',
+        number: 4200,
+    },
+    {
+        name: 'Programming Languages',
+        number: 4250,
+    },
+    {
+        name: 'Program Translation Project',
+        number: 4280,
+    },
+    {
+        name: 'Database Management Systems',
+        number: 4610,
+    },
+    {
+        name: 'Computer Forensics',
+        number: 4700,
+    },
+    {
+        name: 'Computer Networks and Communications',
+        number: 4730,
+    },
+    {
+        name: 'Operating Systems',
+        number: 4760,
+    },
+    {
+        name: 'Advanced Data Structures and Algorithms',
+        number: 5130,
+    },
+    {
+        name: 'Advanced iOS Apps',
+        number: 5222,
+    },
+    {
+        name: 'Artificial Intelligence',
+        number: 5300,
+    },
+    {
+        name: 'Machine Learning',
+        number: 5340,
+    },
+    {
+        name: 'Computer Graphics',
+        number: 5410,
+    },
+    {
+        name: 'Digital Image Processing and Computer Vision',
+        number: 5420,
+    },
+    {
+        name: 'Software Engineering',
+        number: 5500,
+    },
+    {
+        name: 'Cyber Threats and Defense  ',
+        number: 5702,
+    },
+    {
+        name: 'Cloud Computing',
+        number: 5750,
+    },
+    {
+        name: 'Security of IoT Systems',
+        number: 5794,
+    },
+    {
+        name: 'Computer Science Independent Project',
+        number: 5880,
+    },
+    {
+        name: 'Cybersecurity Capstone  ',
+        number: 5888,
+    },
+    {
+        name: 'Graduate Internship in Computer Science',
+        number: 5900,
+    }
+           {
+        name: 'Advances in Evolutionary Computation  ',
+        number: 6320,
+    },
+    {
+        name: 'Genetic Programming',
+        number: 6340,
+    },
+    {  
+        name: 'Thesis in Computer Science' ,   
+        number: 6900  , 
+    }
+
+]
